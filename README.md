@@ -2,6 +2,8 @@
 
 http://tanner.uthsc.edu/ganglia/
 
+http://128.169.4.82/ganglia/
+
 #[Headmaster]
 
 	Dell PowerEdge R620 × 1
